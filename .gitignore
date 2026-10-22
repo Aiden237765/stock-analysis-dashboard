@@ -1,0 +1,9 @@
+# Environment variables / API keys
+.env
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+.venv/
